@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\mihaj\\OneDrive\\Desktop\\ProjekatAUS\\dCom\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|C:\\Users\\mihaj\\OneDrive\\Desktop\\ProjekatAUS\\dCom\\dcom\\rtucfg.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\rtucfg.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|c:\\users\\mihaj\\onedrive\\desktop\\projekataus\\dcom\\processingmodule\\acquisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|solutionrelative:processingmodule\\acquisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|C:\\Users\\mihaj\\OneDrive\\Desktop\\ProjekatAUS\\dCom\\dcom\\rtucfg.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\rtucfg.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +30,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "RtuCfg.txt",
               "DocumentMoniker": "C:\\Users\\mihaj\\OneDrive\\Desktop\\ProjekatAUS\\dCom\\dCom\\RtuCfg.txt",
               "RelativeDocumentMoniker": "dCom\\RtuCfg.txt",
@@ -43,13 +43,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Acquisitor.cs",
               "DocumentMoniker": "C:\\Users\\mihaj\\OneDrive\\Desktop\\ProjekatAUS\\dCom\\ProcessingModule\\Acquisitor.cs",
               "RelativeDocumentMoniker": "ProcessingModule\\Acquisitor.cs",
               "ToolTip": "C:\\Users\\mihaj\\OneDrive\\Desktop\\ProjekatAUS\\dCom\\ProcessingModule\\Acquisitor.cs",
               "RelativeToolTip": "ProcessingModule\\Acquisitor.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAowFQAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowEkAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-26T14:54:08.322Z",
               "EditorCaption": ""

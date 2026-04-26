@@ -1,13 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mihaj\\OneDrive\\Desktop\\ProjekatAUS\\dCom\\",
+  "WorkspaceRootPath": "C:\\Users\\mihaj\\OneDrive\\Desktop\\ProjekatAUS\\AUSprojekatG2P\\dCom\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|c:\\users\\mihaj\\onedrive\\desktop\\projekataus\\dcom\\processingmodule\\acquisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mihaj\\OneDrive\\Desktop\\ProjekatAUS\\AUSprojekatG2P\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|c:\\users\\mihaj\\onedrive\\desktop\\projekataus\\ausprojekatg2p\\dcom\\processingmodule\\acquisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|solutionrelative:processingmodule\\acquisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|C:\\Users\\mihaj\\OneDrive\\Desktop\\ProjekatAUS\\dCom\\dcom\\rtucfg.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|C:\\Users\\mihaj\\OneDrive\\Desktop\\ProjekatAUS\\AUSprojekatG2P\\dCom\\dcom\\rtucfg.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\rtucfg.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -29,27 +32,47 @@
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RtuCfg.txt",
-              "DocumentMoniker": "C:\\Users\\mihaj\\OneDrive\\Desktop\\ProjekatAUS\\dCom\\dCom\\RtuCfg.txt",
-              "RelativeDocumentMoniker": "dCom\\RtuCfg.txt",
-              "ToolTip": "C:\\Users\\mihaj\\OneDrive\\Desktop\\ProjekatAUS\\dCom\\dCom\\RtuCfg.txt",
-              "RelativeToolTip": "dCom\\RtuCfg.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-04-26T15:25:32.399Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\mihaj\\OneDrive\\Desktop\\ProjekatAUS\\AUSprojekatG2P\\.gitignore",
+              "RelativeDocumentMoniker": "..\\.gitignore",
+              "ToolTip": "C:\\Users\\mihaj\\OneDrive\\Desktop\\ProjekatAUS\\AUSprojekatG2P\\.gitignore",
+              "RelativeToolTip": "..\\.gitignore",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAAAA4BAAAMAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-04-26T18:31:03.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RtuCfg.txt",
+              "DocumentMoniker": "C:\\Users\\mihaj\\OneDrive\\Desktop\\ProjekatAUS\\AUSprojekatG2P\\dCom\\dCom\\RtuCfg.txt",
+              "RelativeDocumentMoniker": "dCom\\RtuCfg.txt",
+              "ToolTip": "C:\\Users\\mihaj\\OneDrive\\Desktop\\ProjekatAUS\\AUSprojekatG2P\\dCom\\dCom\\RtuCfg.txt",
+              "RelativeToolTip": "dCom\\RtuCfg.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-04-26T15:25:32.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Acquisitor.cs",
-              "DocumentMoniker": "C:\\Users\\mihaj\\OneDrive\\Desktop\\ProjekatAUS\\dCom\\ProcessingModule\\Acquisitor.cs",
+              "DocumentMoniker": "C:\\Users\\mihaj\\OneDrive\\Desktop\\ProjekatAUS\\AUSprojekatG2P\\dCom\\ProcessingModule\\Acquisitor.cs",
               "RelativeDocumentMoniker": "ProcessingModule\\Acquisitor.cs",
-              "ToolTip": "C:\\Users\\mihaj\\OneDrive\\Desktop\\ProjekatAUS\\dCom\\ProcessingModule\\Acquisitor.cs",
+              "ToolTip": "C:\\Users\\mihaj\\OneDrive\\Desktop\\ProjekatAUS\\AUSprojekatG2P\\dCom\\ProcessingModule\\Acquisitor.cs",
               "RelativeToolTip": "ProcessingModule\\Acquisitor.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAowEkAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-26T14:54:08.322Z",
               "EditorCaption": ""
